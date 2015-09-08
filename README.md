@@ -16,3 +16,7 @@ C implementation of Unix commands and system calls
 does not delete if the provided file is a directory.
 9) rm -r
 does not delete the directory. But goes into the directories and deletes non-directory files.
+
+POSIX Thread library:
+
+1) pthread.c - simple implementation of pthread library
